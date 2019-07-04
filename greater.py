@@ -1,9 +1,9 @@
-n1=int(input())
-n2=int(input())
-n3=int(input())
-if(n1>n2 and n1>n3):
-  print(n1)
-elif(n2>n1 and n2>n3):
-  print(n2)
+numb1=int(input())
+numb2=int(input())
+numb3=int(input())
+if(numb1>numb2 and numb1>numb3):
+  print(numb1)
+elif(numb2>numb1 and numb2>numb3):
+  print(numb2)
 else:
-  print(n3)
+  print(numb3)
