@@ -1,0 +1,2 @@
+stg=input()
+print(stg+".")
